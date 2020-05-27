@@ -16,7 +16,7 @@ TGS2450を使用しました<br>
 # 配線図
 匂いセンサを1,2,3,4の各値で配線しています。
 
-![smell03](https://user-images.githubusercontent.com/43441878/82989833-38369200-a036-11ea-91ae-914073ea9807.png
+![smell03](https://user-images.githubusercontent.com/43441878/82989833-38369200-a036-11ea-91ae-914073ea9807.png)
 
 # グラフ
 こちらはマッキーペンのにおいを観測したグラフになっています。
